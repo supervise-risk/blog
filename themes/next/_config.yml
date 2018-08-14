@@ -127,15 +127,15 @@ scheme: Muse
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/M-smilexu || github
-  E-Mail: mailto:xuxiaoxiaoshuai@gmail.com || envelope
+  GitHub: https://github.com/supervise-risk || github
+  # E-Mail: mailto:xuxiaoxiaoshuai@gmail.com || envelope
   # Google: https://plus.google.com/yourname || google
-  Twitter: https://twitter.com/smilexu813 || twitter
+  # Twitter: https://twitter.com/smilexu813 || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
   #StackOverflow: https://stackoverflow.com/yourname || stack-overflow
   #YouTube: https://youtube.com/yourname || youtube
-  Instagram: https://instagram.com/m.smilexu || instagram
+  # Instagram: https://instagram.com/m.smilexu || instagram
   #Skype: skype:yourname?call|chat || skype
 
 social_icons:
@@ -361,7 +361,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: smilexu
+  shortname: supervise-risk
   count: true
 
 # Hypercomments

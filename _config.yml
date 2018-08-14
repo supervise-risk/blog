@@ -6,7 +6,7 @@
 title: '{ Living , Coding }'
 subtitle: 
 description: 认真过好每一天，记录生活和工作的点滴
-author: smilexu
+author: supervise-risk
 language: zh-Hans
 timezone: Asia/Shanghai
 
@@ -78,5 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/M-smilexu/M-smilexu.github.io.git
+  repo: https://github.com/supervise-risk/supervise-risk.github.io.git
   branch: master
