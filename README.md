@@ -29,3 +29,18 @@
 #### 部署
 
     hexo deploy
+
+#### 目录结构
+
+> 具体 blog 写在 source 下
+
+    .
+    ├── README.md
+    ├── _config.yml
+    ├── db.json
+    ├── node_modules
+    ├── package.json
+    ├── public
+    ├── scaffolds
+    ├── source  # 具体 blog
+    └── themes
